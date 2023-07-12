@@ -6,6 +6,7 @@
 - [MetaMask mock for e2e tests](https://github.com/sumicet/Playwright-Web3-Provider)
 - [Setting up `The Graph` with `react-query`](https://github.com/sumicet/thegraph-query-frontend)
 - [A project with `Rainbow Kit`](https://github.com/sumicet/vitty-bue)
+- [Simple smart contracts](https://github.com/sumicet/snekret/tree/main/contracts)
 
 ### 🗂 Composition projects 🗂
 - [Setting up `Chakra-UI`](https://github.com/sumicet/chakra-ui-headless-modular-setup)
