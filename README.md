@@ -1,5 +1,6 @@
 ### 🪄 UI-focused projects 🪄
-- [Linear](https://github.com/sumicet/linear)
+- [Linear landing page: `Next.js` + `Chakra-UI`](https://github.com/sumicet/linear)
+- [Midjourney landing page: `Next.js` + `Tailwind CSS`](https://github.com/sumicet/midjourney-landing-page)
 
 ### ⚡ Web3 projects ⚡
 - [Web3 social authentication via `web3auth` and `wagmi`](https://github.com/sumicet/web3auth-modal-wagmi)
