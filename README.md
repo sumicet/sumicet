@@ -8,7 +8,7 @@
 - [A project with `Rainbow Kit`](https://github.com/sumicet/vitty-bue)
 - [Simple smart contracts](https://github.com/sumicet/snekret/tree/main/contracts)
 
-### 🗂 Composition projects 🗂
+### 🗂 Composition/logic-focused projects 🗂
 - [Setting up `Chakra-UI`](https://github.com/sumicet/chakra-ui-headless-modular-setup)
 - [Autogenerate types and queries for `GQL` via `graphql-codegen` and `react-query`](https://github.com/sumicet/thegraph-query-frontend)
 
