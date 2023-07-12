@@ -9,6 +9,7 @@
 
 ### 🗂 Composition projects 🗂
 - [Setting up `Chakra-UI`](https://github.com/sumicet/chakra-ui-headless-modular-setup)
+- [Autogenerate types and queries for `GQL` via `graphql-codegen` and `react-query`](https://github.com/sumicet/thegraph-query-frontend)
 
 ### 🐱 Other 🐱
 - [Web sockets with `react-query`](https://github.com/sumicet/beeps)
